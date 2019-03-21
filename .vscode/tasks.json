@@ -13,10 +13,9 @@
 				"focus": true
 			},
 			"problemMatcher": []
-		}
+		},
 		{
 			"label": "Build FASM",
-			"identifier": "build",
 			"type": "shell",
 			"command": "fasm ${file} ${file}.exe",
 			"presentation": {
